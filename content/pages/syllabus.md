@@ -53,10 +53,39 @@ Grading
 
 There is no exam for this course. The course grade will be based on 5 Problem Sets which are due every two weeks and a final project. I may alter grades to reflect class participation, improvement, effort and other qualitative measures of performance.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 75% |
-| Final Project | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Outline
 -------
