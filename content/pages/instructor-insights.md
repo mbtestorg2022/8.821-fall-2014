@@ -33,8 +33,8 @@ Curriculum Information
 
 ### Prerequisites
 
-*   _[8.323 Relativistic Quantum Field Theory I](/courses/8-323-relativistic-quantum-field-theory-i-spring-2008/pages/index.htm)_
-*   _[8.324 Relativistic Quantum Field Theory II](/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/pages/index.htm)_
+*   _[8.323 Relativistic Quantum Field Theory I](/courses/8-323-relativistic-quantum-field-theory-i-spring-2008)_
+*   _[8.324 Relativistic Quantum Field Theory II](/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010)_
 
 ### Requirements Satisfied
 

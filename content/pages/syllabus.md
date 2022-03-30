@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-_[8.323 Relativistic Quantum Field Theory I](/courses/8-323-relativistic-quantum-field-theory-i-spring-2008/), [8.324 Relativistic Quantum Field Theory II](/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/)_
+_[8.323 Relativistic Quantum Field Theory I](/courses/8-323-relativistic-quantum-field-theory-i-spring-2008), [8.324 Relativistic Quantum Field Theory II](/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010)_
 
 More about the Homepage Image
 -----------------------------
